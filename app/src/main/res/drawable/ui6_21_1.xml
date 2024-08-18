@@ -1,0 +1,11 @@
+<!-- res/drawable/vector_rounded_rectangle.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="37dp"
+    android:height="37dp"
+    android:viewportWidth="37"
+    android:viewportHeight="37">
+
+    <path
+        android:fillColor="#7697E4"
+        android:pathData="M8,0h21c4.418,0 8,3.582 8,8v21c0,4.418 -3.582,8 -8,8h-21c-4.418,0 -8,-3.582 -8,-8v-21c0,-4.418 3.582,-8 8,-8Z"/>
+</vector>

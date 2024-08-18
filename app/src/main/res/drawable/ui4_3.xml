@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- res/drawable/your_drawable_name.xml -->
+    <vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="103dp"
+        android:height="2dp"
+        android:viewportWidth="103"
+        android:viewportHeight="2">
+
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M102.485 0H0V1.45853H102.485V0Z"/>
+
+    </vector>
+
